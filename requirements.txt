@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+diffusers[torch]
+torch==2.1.2
+transformers
+safetensors
+accelerate
